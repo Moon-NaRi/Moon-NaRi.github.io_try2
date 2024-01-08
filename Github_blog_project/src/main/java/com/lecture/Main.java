@@ -1,4 +1,4 @@
-package com.blog.nari_moon;
+package com.lecture;
 
 public class Main {
     public static void main(String[] args) {

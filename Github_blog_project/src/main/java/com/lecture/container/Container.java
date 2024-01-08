@@ -1,4 +1,4 @@
-package com.blog.nari_moon.container;
+package com.lecture.container;
 
 import java.util.Scanner;
 

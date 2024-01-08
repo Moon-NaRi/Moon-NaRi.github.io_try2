@@ -1,6 +1,6 @@
-package com.blog.nari_moon;
+package com.lecture;
 
-import com.blog.nari_moon.container.Container;
+import com.lecture.container.Container;
 
 import java.util.ArrayList;
 import java.util.List;

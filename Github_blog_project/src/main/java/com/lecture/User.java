@@ -1,4 +1,4 @@
-package com.blog.nari_moon;
+package com.lecture;
 
 public class User {
   String email;

@@ -1,4 +1,4 @@
-import com.blog.nari_moon.User;
+import com.lecture.User;
 
 import java.sql.*;
 import java.util.ArrayList;
